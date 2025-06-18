@@ -22,3 +22,4 @@ This is a simple responsive webpage built using **HTML**, **CSS**, and **JavaScr
 - Responsive cards section
 - Clean and modern design
 
+![Image](https://github.com/user-attachments/assets/12e5a724-0780-4d22-a178-d3704bcf8a40)
